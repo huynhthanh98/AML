@@ -1,6 +1,6 @@
 ## Thực hành 06:
 - Nội dung: trong file Lab_05.ipynb
-- Deadline: 23h59, thứ 3, ngày 01/11/2020
+- Deadline: 23h59, thứ 3, ngày 01/12/2020
 
 ## Nộp bài
 - Bài nộp gồm một file nén tên MHNC-Lab06-MSSV.rar chứa file notebook .ipynb và một file .pdf in kết quả chạy của notebook (có thể dùng chức năng Print của trình duyệt, chỉ cần trong file pdf có code và kết quả chạy)
